@@ -11,18 +11,14 @@ This repo contains all the projects that I have created while learning Vue JS.
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
-Installation:
+Project setup
 
 `npm install`  
 
-To Run Test Suite:  
+Compiles and hot-reloads for development  
 
-`npm test`  
+`npm run serve`  
 
-To Start Server:
+Compiles and minifies for production
 
-`npm start`  
-
-To Visit App:
-
-`localhost:3000/`  
+`npm run build`    
